@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <style type="text/css">
+      <![CDATA[
+
+       @import url("https://fonts.googleapis.com/css2?family=Six+Caps&display=swap");
+
+        text {
+           stroke: #000000;
+           fill:   #FFFFFF;
+           font-family: "Six Caps", sans-serif;
+           font-size: 5.2em;
+        }
+    }
+
+      ]]>
+    </style>
+
+    <text x="10" y="130">Contos e Canções</text>
+</svg>
