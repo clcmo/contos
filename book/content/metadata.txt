@@ -1,0 +1,18 @@
+---
+title:
+- type: main
+  text: Contos e Canções
+creator:
+- role: author
+  text: Camila L. Oliveira
+description: Poemas de 2009 a 2021
+rights: Commercial
+language: pt-BR
+stylesheet: epub.css
+cover-image: cover.jpg
+identifier:
+- scheme: DOI
+  text: doi:9781521253878
+publisher: LCAL
+rights: © 2021 Camila L. Oliveira, CC BY-NC
+...
